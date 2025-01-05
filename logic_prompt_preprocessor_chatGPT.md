@@ -1,3 +1,9 @@
+# Eliza Character Creator as Logical Expression with Schema
+
+### One of the most effective ways to leverage the power of logical expressions is to create a data schema - in this case the .json data structure format for an AI-powered Eliza Character deployable anywhere - as a single prompt experience that can be used with ANY LLM.
+
+Simply copy and paste the solution below into your favourite LLM and see what happens.
+
 "Using this logical expression as a foundation:
 
 ∀c[Softface(c) → (CommunityBuilder(c) ∧ PhysicalNurturant(c)) ∧ 
