@@ -2,6 +2,8 @@
 
 ![ipod created with logical expressions](logickalipod.jpg "The Logickal iPod 4th Generation")
 
+Try it out: https://codepen.io/unicornlaunching/pen/ByBJBZR
+
 This markdown file details the systematic evolution of logical expressions and their natural language equivalents that guided the development of a web-based iPod Nano 4th Generation replica. The final solution leverages **HTML**, **CSS**, and **JavaScript** for a fully interactive and responsive design.
 
 ---
