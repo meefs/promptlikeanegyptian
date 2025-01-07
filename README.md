@@ -1,5 +1,9 @@
 # LOGICK: PROMPT LIKE AN EGYPTIAN
 
+In a recent report - The Prompt Report: A Systematic Survey of Prompting Techniques http://arxiv.org/pdf/2406.06608 -  a seemingly comprehensive report on the state of AI prompting was systematically review.
+
+## There is a massive, gaping hole in that paper. This paper fills that hole.
+
 ![ipod created with logical expressions](logickalipod.jpg "The Logickal iPod 4th Generation")
 
 ## The Syndicate
