@@ -4,10 +4,11 @@
 Prompting with Logical Expressions using Propositional, Predicate & Modal Logic
 
 Author: Michael Jagdeo | Blockface [attractfund1ng](http://www.twitter.com/attractfund1ng)
+Contributors: Mnemomeme, Fratrilogos, Oma Cox, BeatCheek, Rocky Nguyen, Seraph_Notitia, Quinn C. Martin, Potato Stu, Eileen Jan, Ayden Springer, Matios Berhe, Liminal Snake
 
 ## Background
 
-The Prompt Report: A Systematic Survey of Prompting Techniques, claimed the following: 
+[The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608) (June 2024), claimed the following:
 > We present a detailed vocabulary of 33 vocabulary terms, a taxonomy of 58 LLM prompting techniques, and 40 techniques for other modalities. Additionally, we provide best practices and guidelines for prompt engineering, including advice for prompting engineering ChatGPT and other state-of-the-art (SOTA) LLMs. We further present a meta-analysis of the entire literature on natural language prefix-prompting. As a culmination of these efforts, this paper presents the most comprehensive survey on prompt engineering to date.
 
 ## Motivation
@@ -28,3 +29,7 @@ The reason that people don't get what they want when they prompt LLMs is they're
 
 Try starting with this prompt:
 > I'd like to have a conversation with you, where at every step we update a logical expression that leverages predicate propositional and modal logic.
+
+## Rationale
+
+Prompting with predicate and propositional and modal logic offers a more precise and structured approach compared to natural language, leading to focused outputs with minimal token usage. Unlike natural language prompts, which can introduce ambiguity and require longer explanations to clarify intent, logic-based prompts reduce redundancy and optimize both computational efficiency and output quality. By expressing queries through formalized logical structures, we minimize unnecessary complexity, making interactions with Large Language Models (LLMs) more effective. This paper explores how leveraging predicate and propositional logic in prompt engineering can significantly improve response relevance, clarity, and performance. Furthermore, we discuss novel methods for implementing these approaches, including the development of predicate and propositional logic pre-processors that can optimize token usage, improve response quality, and reduce computational overhead. These advancements provide a more efficient method for engaging with LLMs, resulting in significant cost savings across compute, network, storage, bandwidth, and AI inference latency. These findings work with ALL LLMs.
