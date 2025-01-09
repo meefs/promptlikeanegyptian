@@ -1,10 +1,10 @@
 # LOGICK: PROMPT LIKE AN EGYPTIAN: The Next Era of Prompting 
 
+![manufacturing_consent](manufacturing_consent.png "Manufacturing Consent")
+
 In a recent report - The Prompt Report: A Systematic Survey of Prompting Techniques http://arxiv.org/pdf/2406.06608 -  a seemingly comprehensive report on the state of AI prompting was systematically reviewed. In it, 33 vocabulary terms, a taxonomy of 58 LLM prompting techinques, and 40 techniques for other modalities were discussed. However, at no point in the paper did they mention the word predicate.
 
 ## There is a massive, gaping hole in that paper. This paper fills that hole.
-
-![manufacturing_consent](manufacturing_consent.png "Manufacturing Consent")
 
 ## The Syndicate
 
