@@ -1,5 +1,3 @@
-  Manufacturing Consent (II) \[Jan 9 2025\] body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; color: #333; } h1, h2, h3, h4 { color: #2c3e50; } code { background-color: #f5f5f5; padding: 2px 4px; border-radius: 4px; font-family: Monaco, Consolas, "Courier New", monospace; } pre { background-color: #f5f5f5; padding: 15px; border-radius: 4px; overflow-x: auto; } .abstract { font-style: italic; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-left: 4px solid #2c3e50; } .example-block { background-color: #f8f9fa; border-left: 4px solid #28a745; padding: 15px; margin: 20px 0; } .code-comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0; } .logical-expression { background-color: #e9ecef; padding: 10px; border-radius: 4px; font-family: Monaco, Consolas, "Courier New", monospace; }
-
 Manufacturing Consent (II)
 ==========================
 
