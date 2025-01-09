@@ -1,11 +1,11 @@
 # Manufactured Consent
 ## The Next Era of Prompt Engineering
 
-Prompting with Logical Expressions using Propositional, Predicate & Modal Logic
+###### Prompting with Logical Expressions using Propositional, Predicate & Modal Logic
 
-Author: Michael Jagdeo | Blockface | [attractfund1ng](http://www.twitter.com/attractfund1ng)
+###### Author: Michael Jagdeo | Blockface | [attractfund1ng](http://www.twitter.com/attractfund1ng)
 
-Contributors: Mnemomeme, Fratrilogos, Oma Cox, BeatCheek, Rocky Nguyen, Seraph_Notitia, Quinn C. Martin, Potato Stu, Eileen Jan, Ayden Springer, Matios Berhe, Liminal Snake
+###### Contributors: Mnemomeme, Fratrilogos, Oma Cox, BeatCheek, Rocky Nguyen, Seraph_Notitia, Quinn C. Martin, Potato Stu, Eileen Jan, Ayden Springer, Matios Berhe, Liminal Snake
 
 ## Background
 
