@@ -4,7 +4,7 @@ In a recent report - The Prompt Report: A Systematic Survey of Prompting Techniq
 
 ## There is a massive, gaping hole in that paper. This paper fills that hole.
 
-![ipod created with logical expressions](logickalipod.jpg "The Logickal iPod 4th Generation")
+![manufacturing_consent](manufacturing_consent.png "Manufacturing Consent")
 
 ## The Syndicate
 
@@ -20,3 +20,5 @@ Timestamp: Sat Jan 4 2024 10:34PM EST
 #### Prompting with predicate and propositional and modal logic offers a more precise and structured approach compared to natural language, leading to focused outputs with minimal token usage. 
 
 Unlike natural language prompts, which can introduce ambiguity and require longer explanations to clarify intent, logic-based prompts reduce redundancy and optimize both computational efficiency and output quality. By expressing queries through formalized logical structures, we minimize unnecessary complexity, making interactions with Large Language Models (LLMs) more effective. This paper explores how leveraging predicate and propositional logic in prompt engineering can significantly improve response relevance, clarity, and performance. Furthermore, we discuss novel methods for implementing these approaches, including the development of predicate and propositional logic pre-processors that can optimize token usage, improve response quality, and reduce computational overhead. These advancements provide a more efficient method for engaging with LLMs, resulting in significant cost savings across compute, network, storage, bandwidth, and AI inference latency. These findings work with ALL LLMs.
+
+![ipod created with logical expressions](logickalipod.jpg "The Logickal iPod 4th Generation")
