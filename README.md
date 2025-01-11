@@ -1,4 +1,4 @@
-# LOGICK: PROMPT LIKE AN EGYPTIAN: The Next Era of Prompting 
+# LOGICK: PROMPT LIKE AN EGYPTIAN: Manufacturing Consent [from LLMs]
 
 ![manufacturing_consent](manufacturing_consent.png "Manufacturing Consent")
 
