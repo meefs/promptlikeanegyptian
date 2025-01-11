@@ -1,5 +1,3 @@
-  Skinner’s Theory in Logical Expressions
-
 Expressing B.F. Skinner's Theory of Reinforcement in Logical Expressions
 ========================================================================
 
